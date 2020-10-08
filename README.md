@@ -1,3 +1,2 @@
 # Constrained optimization of water pipeline diameters using genetic algorithm and EPANET
-A work-in-progress program for the constrained optimization of pipe diameters in a water distribution network. UCL third year project.
-Tested on the Two-Loop network so far. Converges in around 250 generations.
+UCL Mechanical Engineering 3rd year thesis project
